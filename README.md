@@ -6,3 +6,4 @@ Just an easy script to encrypt your files with symmetric encryption.
 ![](img/input.png)
 4.Than choose what you would like to do with ur files.
 ![](img/input1.png)
+5. and that's it ^-^
